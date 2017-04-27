@@ -1,0 +1,230 @@
+.header_big .top_menu li.active>a, .header_big .top_menu li.menu-item>a {
+    padding: 0 38px;
+}
+
+.header_big .top_menu li.menu-item:last-child a {
+    padding: 0 36px;
+}
+.header .top_menu li.active>a, .header .top_menu li.menu-item>a {
+    padding: 0px 44px;
+}
+#profile-tour-nav li.menu-item>a.start-tour {
+    padding: 0px 36px;
+}
+#profile-tour-nav li.menu-item>a {
+    padding: 0 36px;
+}
+#profile-tour-nav li.menu-item>a.start-tour {
+    padding: 0 36px;
+}
+#profile-tour-nav li.menu-item>a {
+    padding: 0 36px;
+}
+
+
+.recomended_marker {
+    font-size: 14px;
+}
+.choose_us{
+    clear: both;
+}
+
+.logo_row .adress .language_select span::after {
+    width: 6px;
+}
+.header_big .logo_row .adress .language_select {
+    margin-left: 80px;
+}
+.logo_row .adress .language_select span::after {
+    left: 170px;
+}
+.logo_row .adress .language_select {
+    padding-left: 80px;
+}
+.logo_row .adress .language_select i {
+    background-position: 0 -16px;
+}
+
+.referral_commission {
+    height: auto;
+}
+.referral_commission .row {
+    margin-bottom: 65px;
+}
+.referral_commission_p {
+    padding-top: 0;
+}
+
+.info-block2 {
+    min-height: 490px;
+}
+
+.list_carousel li .deposit_button {
+    font-size: 12px;
+}
+
+.top_menu li a.sub-menu-a {
+    width: auto;
+    padding-right: 20px;
+}
+
+
+
+
+/*Personal page*/
+.edit_account .left_menu a.withdraw_btn {
+    padding: 14px 30px;
+}
+.base_info .user-name, .base_info .registration_date, .base_info .last_access {
+    padding-left: 15px;
+}
+
+
+.referal-page .first-section blockquote p {
+    font-size: 16px;
+    margin: 20px 10px 0;
+}
+
+/* for action */
+.langru .bgaction1 {
+    margin-left: 170px;
+    margin-top: 48px;
+}
+.langru .bgaction2 {
+    margin: 28px 0 0 40px;
+}
+.langru .bgaction3 {
+    margin-top: 100px;
+}
+.langru .bgaction4 {
+    margin: 20px 0 0 22px;
+}
+.langru .bgaction5 {
+    margin-left: -97px;
+}
+.action_text {
+    text-align: center;
+    font-size: 45px;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Catamaran', sans-serif;
+    margin-top: 225px;
+}
+.count_tickets {
+    color: #339999;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Catamaran', sans-serif;
+    position: absolute;
+    bottom: 40px;
+    left: 50px;
+}
+
+.action-iphone h2 {
+    font-size: 30px;
+}
+
+.winner_name {
+    background-color: #e5e5e5;
+    color: #999999;
+    width: 100%;
+    max-width: 560px;
+    margin: 0 auto 30px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding: 23px 0;
+}
+.regulations_title {
+    font-family: 'Catamaran', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 36px;
+    margin-bottom: 40px;
+}
+.regulations_info {
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.regulations_info span {
+    display: block;
+}
+.regulations_text {
+    font-size: 16px;
+    color: #999999;    
+    margin-bottom: 50px;
+}
+.start_action {
+    background-color: #339999;
+    padding: 0px 0 25px 0;
+}
+
+.start_action .regulations_title {
+    color: #fff;
+    margin-bottom: 10px;
+}
+.start_action_text {
+    font-size: 16px;
+    color: #fff;
+    max-width: 770px;
+    margin: 0 auto 20px;
+}
+
+.start_action_btn .account_btn {
+    width: 250px;
+    height: 60px;
+    background: url(/images/dark_bg_btn.png) repeat-x 0 0;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    transition: opacity .5s;
+    line-height: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 19px 45px;
+}
+
+.action_table {
+    padding: 60px 0 120px;
+}
+.action_table table {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.action_table table tr {
+
+}
+.action_table table tr td {
+    color: #999999;
+    padding: 22px 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.action_table table thead tr:nth-child(1) {    
+    background: #2b4a4c url(/images/table_head.png) repeat-x 0 0;
+}
+.action_table table thead tr:nth-child(1) td {
+    color: #fff;
+}
+
+.action_table table tbody tr:nth-child(even) {
+    background-color: #e5e5e5;
+}
+
+.table_info {
+    color: #222427;
+    font-size: 16px;
+    text-align: center;
+    max-width: 540px;
+    margin: 0 auto;
+
+}
+.action_popup p,
+.action_popup h4 {
+    color: #fff;
+}
